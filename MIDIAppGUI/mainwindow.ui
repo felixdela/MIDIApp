@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1154</width>
+    <height>638</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>40</width>
+    <height>40</height>
+   </size>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <property name="leftMargin">
+     <number>9</number>
+    </property>
+    <item>
+     <widget class="QStackedWidget" name="stackedWidget">
+      <widget class="QWidget" name="page"/>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1154</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuConfiguraciones">
+    <property name="title">
+     <string>Configuraciones</string>
+    </property>
+    <addaction name="actionMostrarConf"/>
+    <addaction name="separator"/>
+    <addaction name="actionNuevoProyectoConf"/>
+    <addaction name="actionCargarConf"/>
+    <addaction name="actionGuardarConf"/>
+    <addaction name="separator"/>
+    <addaction name="actionNuevaConf"/>
+   </widget>
+   <widget class="QMenu" name="menuInstrumentos">
+    <property name="title">
+     <string>Instrumentos</string>
+    </property>
+    <addaction name="actionMostrarInst"/>
+    <addaction name="separator"/>
+    <addaction name="actionNuevoProyectoInst"/>
+    <addaction name="actionCargarInst"/>
+    <addaction name="actionGuardarInst"/>
+    <addaction name="separator"/>
+    <addaction name="actionNuevoInst"/>
+   </widget>
+   <widget class="QMenu" name="menuPreferencias">
+    <property name="title">
+     <string>Preferencias</string>
+    </property>
+    <addaction name="actionArduino_CLI_Path"/>
+   </widget>
+   <addaction name="menuInstrumentos"/>
+   <addaction name="menuConfiguraciones"/>
+   <addaction name="menuPreferencias"/>
+  </widget>
+  <action name="actionAniadeInstrumento">
+   <property name="icon">
+    <iconset>
+     <normaloff>C:/Users/fdela/OneDrive/Imágenes/llaveinglesa.png</normaloff>C:/Users/fdela/OneDrive/Imágenes/llaveinglesa.png</iconset>
+   </property>
+   <property name="text">
+    <string>AniadeInstrumento</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::NoRole</enum>
+   </property>
+  </action>
+  <action name="actionAbrirConfigs">
+   <property name="text">
+    <string>AbrirConfigs</string>
+   </property>
+   <property name="toolTip">
+    <string>AbrirConfigs</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::NoRole</enum>
+   </property>
+  </action>
+  <action name="actionNuevoProyectoConf">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Nuevo proyecto</string>
+   </property>
+  </action>
+  <action name="actionCargarConf">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Cargar</string>
+   </property>
+  </action>
+  <action name="actionNuevaConf">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Nueva configuración</string>
+   </property>
+  </action>
+  <action name="actionNuevoProyectoInst">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Nuevo proyecto</string>
+   </property>
+  </action>
+  <action name="actionCargarInst">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Cargar</string>
+   </property>
+  </action>
+  <action name="actionMostrarConf">
+   <property name="text">
+    <string>Mostrar</string>
+   </property>
+  </action>
+  <action name="actionMostrarInst">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Mostrar</string>
+   </property>
+  </action>
+  <action name="actionGuardarInst">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Guardar</string>
+   </property>
+  </action>
+  <action name="actionGuardarConf">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Guardar</string>
+   </property>
+  </action>
+  <action name="actionNuevoInst">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Nuevo instrumento</string>
+   </property>
+  </action>
+  <action name="actionNuevo_banco">
+   <property name="text">
+    <string>Nuevo banco</string>
+   </property>
+  </action>
+  <action name="actionArduino_CLI_Path">
+   <property name="text">
+    <string>Arduino-CLI Path</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

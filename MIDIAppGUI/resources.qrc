@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/flecha_arriba.png</file>
+        <file>img/flecha_abajo.png</file>
+        <file>img/mas.png</file>
+        <file>img/menos.png</file>
+        <file>arduino/pedalera_midi_conbotones.ino</file>
+        <file>arduino/botones.h</file>
+        <file>img/midiapp.jpeg</file>
+    </qresource>
+</RCC>
