@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['samechannel_0',['SameChannel',['../struct_thru.html#ad19abe318ba3710100aefdea1895fbbbae9526d0b1ea18151f23621cfe01d779a',1,'Thru']]],
+  ['songposition_1',['SongPosition',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84ca996450aa045571374864c2dc9404e944',1,'midi_Defs.h']]],
+  ['songselect_2',['SongSelect',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84cad512934b4f2e896bee884c262f64acb1',1,'midi_Defs.h']]],
+  ['soundcontroller1_3',['SoundController1',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263aee3eac0e2225b195d55f22ad091108af',1,'midi_Defs.h']]],
+  ['soundcontroller10_4',['SoundController10',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263a7adf1560806fd9f49eaba2268956a9cb',1,'midi_Defs.h']]],
+  ['soundcontroller2_5',['SoundController2',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263acd98e6527a489d7788cb474f66c3d667',1,'midi_Defs.h']]],
+  ['soundcontroller3_6',['SoundController3',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263af301e310574a9a24c08ef4522811c085',1,'midi_Defs.h']]],
+  ['soundcontroller4_7',['SoundController4',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263a4acd77ca8f324462d5c250f25761675d',1,'midi_Defs.h']]],
+  ['soundcontroller5_8',['SoundController5',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263a20fb8df1c00cc2fb12eb21b764d60c4a',1,'midi_Defs.h']]],
+  ['soundcontroller6_9',['SoundController6',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263a8e7773b3f966446f14272fe002877fc1',1,'midi_Defs.h']]],
+  ['soundcontroller7_10',['SoundController7',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263aef761d1402b9ee0bd39f15601311e2de',1,'midi_Defs.h']]],
+  ['soundcontroller8_11',['SoundController8',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263ab4d93b8b46ad16b81ed3fa271845d10d',1,'midi_Defs.h']]],
+  ['soundcontroller9_12',['SoundController9',['../midi___defs_8h.html#aa1cfd7d9d1fe50ec27b566e854e98263a620800aeb04b237efc027d62bcaf1a95',1,'midi_Defs.h']]],
+  ['start_13',['Start',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84cabd5f9c956752ce4dc707b4624b3a36f7',1,'midi_Defs.h']]],
+  ['stop_14',['Stop',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84caf98d707eb4ed173ccfdbaf4eaa87100d',1,'midi_Defs.h']]],
+  ['systemexclusive_15',['SystemExclusive',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84ca76531e9669a6601f0c84b1702314e5e3',1,'midi_Defs.h']]],
+  ['systemexclusiveend_16',['SystemExclusiveEnd',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84cae52b192e9bf8dbc18eca5d5203f1ee03',1,'midi_Defs.h']]],
+  ['systemexclusivestart_17',['SystemExclusiveStart',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84ca3c895a4ea1fbe76c98e332aac0b997ed',1,'midi_Defs.h']]],
+  ['systemreset_18',['SystemReset',['../midi___defs_8h.html#ab8db39dcdc3eea8045b9c71b56bba84ca7256ac4658ec7af1eb4705b83266a603',1,'midi_Defs.h']]]
+];

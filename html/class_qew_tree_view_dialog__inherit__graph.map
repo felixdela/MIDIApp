@@ -1,0 +1,13 @@
+<map id="QewTreeViewDialog" name="QewTreeViewDialog">
+<area shape="rect" id="node1" title="This is the base class for the QewTreeViewDialog branch." alt="" coords="215,208,367,235"/>
+<area shape="rect" id="node3" href="$class_all_bancos_dialog.html" title=" " alt="" coords="463,5,591,32"/>
+<area shape="rect" id="node4" href="$class_all_botones_dialog.html" title=" " alt="" coords="460,56,595,83"/>
+<area shape="rect" id="node5" href="$class_all_configuraciones_dialog.html" title=" " alt="" coords="435,107,620,133"/>
+<area shape="rect" id="node6" href="$class_all_instrumentos_dialog.html" title=" " alt="" coords="444,157,611,184"/>
+<area shape="rect" id="node7" href="$class_configuracion_dialog.html" title=" " alt="" coords="451,208,604,235"/>
+<area shape="rect" id="node8" href="$class_instrumento_dialog.html" title=" " alt="" coords="456,259,599,285"/>
+<area shape="rect" id="node9" href="$class_proyecto_configuraciones_dialog.html" title=" " alt="" coords="415,309,640,336"/>
+<area shape="rect" id="node10" href="$class_proyecto_instrumentos_dialog.html" title=" " alt="" coords="424,360,631,387"/>
+<area shape="rect" id="node11" href="$class_qew_tree_view_dialog_form.html" title=" " alt="" coords="435,411,620,437"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,208,167,235"/>
+</map>
